@@ -1,6 +1,7 @@
 TenTenFoo7!
 
-
 Clone "Fork" to local successfully.
 
 git remote add upstream https://github.com/alanchen419/FirstRepository.git
+
+"Welcome" from alanchen419.
