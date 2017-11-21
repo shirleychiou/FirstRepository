@@ -1,1 +1,1 @@
-alanchen419 says "Welcome and Hello"
+alanchen419 says "Welcome and   Hello"  // first change
